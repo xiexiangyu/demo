@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+}
+.filter {
+    background-color: #ccc;
+    margin: 20px;
+}
+
+.filter li {
+    text-align: center;
+}
+
+.filter span {
+    font-size: 14px;
+}
+
+.xxx {
+    position: absolute;
+    left: 0;
+    top: 44px;
+    bottom: 50px;
+}
+/* .refreshContainer {
+    padding-bottom: 100px;
+} */

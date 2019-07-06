@@ -1,0 +1,25 @@
+.getCode {
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #006699;
+	font-size: 14px;
+}
+
+.login-now {
+	display: block;
+	padding: 10px;
+	text-align: right;
+	font-size: 14px;
+	color: #006699;
+}
+
+.my-login button {
+	height: 100%;
+	width: 100%;
+}
+.mui-input-row label,
+.mui-input-row label~input {
+	font-size: 14px;
+}

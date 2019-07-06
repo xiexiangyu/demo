@@ -1,0 +1,71 @@
+.detail-title {
+    font-size: 18px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.price {
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.price .new {
+    font-size: 20px;
+    color: orange;
+    padding: 0 5px;
+}
+
+.price .lod {
+    text-decoration:line-through;
+    padding: 0 5px;
+    color: #ccc;
+}
+.size {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc; 
+}
+.size span{
+    display:inline-block;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.size .active {
+    background-color: red;
+}
+.num {
+    padding: 10px  0;
+    border-bottom: 1px solid #ccc; 
+    overflow: hidden;
+    line-height: 35px;
+}
+
+.mui-numbox{
+    margin: 0 15px;
+}
+
+.btns{
+    padding:  10px  0;
+}
+
+.btns a {
+    float: left;
+    width:50%;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    color: #fff;
+}
+
+.btns a:first-child {
+    background-color: #fa672d;
+}
+
+.btns a:last-child {
+    background-color: #991020;
+}

@@ -1,0 +1,30 @@
+.price-1 {
+    font-size: 20px;
+    color: orange;
+    padding: 0 5px;
+}
+
+.price-2 {
+    text-decoration:line-through;
+    padding: 0 5px;
+    color: #ccc;
+}
+
+.mui-scroll-wrapper {
+    top: 44px;
+    bottom: 50px;
+}
+
+.size span{
+    display:inline-block;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.size .active {
+    background-color: red;
+}
